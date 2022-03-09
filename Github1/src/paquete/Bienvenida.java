@@ -6,6 +6,9 @@ public class Bienvenida {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hola mundo");
+		System.out.println("Estoy probando GitHub");
+		System.out.println("Tengo hambre ya");
+	
 	}
 
 }
